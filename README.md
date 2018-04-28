@@ -3,6 +3,7 @@
 To see the problem of foreign keys not being dropped in SQLite, run:
 
 ```bash
+composer install
 bash testDropForeign.sh
 ```
 
