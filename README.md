@@ -7,4 +7,4 @@ composer install
 bash testDropForeign.sh
 ```
 
-The test code may be found in [app/Console/Commands/TestDropForeign.php](app/Console/Commands/TestDropForeign.php).
+The test code may be found in [app/Console/Commands/TestDropForeign.php](app/Console/Commands/TestDropForeign.php), run by [testDropForeign.sh](testDropForeign.sh).
